@@ -26,20 +26,19 @@ In India alone, 63 million people, including 53 lakh children, experience either
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/ai-sign-language-recognition.git
+   git clone https://github.com/rajkumarmaity23/Ai-Based-Sign-Language-Recognition-System.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```
-   cd ai-sign-language-recognition
+   cd Ai-Based-Sign-Language-Recognition-System
    ```
 
 3. **Run the Application:**
    ```
-   python app.py
+   streamlit run main.py
    ```
 
-   Open your web browser and visit `http://localhost:5000` to interact with the application.
 
 ## Get Involved
 
@@ -51,4 +50,4 @@ We extend our gratitude to the open-source community and all contributors for th
 
 ---
 
-Thank you for exploring our AI-based Sign Language Recognition System. For a live demonstration, please check out the demo on our website. Let's make communication accessible to everyone! 🌟
+Thank you for exploring our AI-based Sign Language Recognition System. For a live demonstration. Let's make communication accessible to everyone!
