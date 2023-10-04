@@ -1,2 +1,54 @@
-# AI-Based-Sign-Language-Prediction-System
-This is a web based interface with Deep Learning for speech-impaired people. Based on the user’s predetermined hand postures, the AI will generate sentences to understand, what the person in front is saying
+# AI-based Sign Language Recognition System
+
+Welcome to our AI-based Sign Language Recognition System project! We're thrilled to introduce a solution aimed at breaking communication barriers for the deaf and mute community, fostering inclusivity across various domains like education, healthcare, and employment. With approximately 466 million people worldwide facing deafness and muteness challenges, our project leverages the power of Artificial Intelligence to support and empower individuals in need.
+
+## Project Highlights
+
+### Key Features
+
+1. **Real-time Interpretation:** Our AI model interprets sign language gestures in real-time, speaking out the corresponding words or numbers pointed by the user.
+   
+2. **User-Friendly Interface:** The application's frontend is intuitively designed, featuring reference images for easy interaction. This simplicity ensures seamless communication between users and the AI system.
+
+3. **Consecutive Word Display:** The interpreted words are displayed consecutively, enhancing the fluidity of communication and understanding.
+
+### How It Works
+
+1. **Hand Gestures Recognition:** The system recognizes predetermined hand gestures corresponding to alphabets and digits.
+
+2. **Real-time Audio Output:** Once the gestures are recognized, the AI system instantly vocalizes the corresponding words or numbers.
+
+## Why It Matters
+
+In India alone, 63 million people, including 53 lakh children, experience either complete or partial deafness. Additionally, 70 million individuals rely on sign language for communication. Our project addresses this substantial gap, promoting social interactions and independent living for those with hearing and speaking challenges.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/your-username/ai-sign-language-recognition.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```
+   cd ai-sign-language-recognition
+   ```
+
+3. **Run the Application:**
+   ```
+   python app.py
+   ```
+
+   Open your web browser and visit `http://localhost:5000` to interact with the application.
+
+## Get Involved
+
+We welcome contributions that can make our project even better! Whether you find a bug, have a suggestion, or want to add exciting new features, feel free to submit a pull request or create an issue.
+
+## Acknowledgements
+
+We extend our gratitude to the open-source community and all contributors for their support. Together, let's create a more inclusive world with technology.
+
+---
+
+Thank you for exploring our AI-based Sign Language Recognition System. For a live demonstration, please check out the demo on our website. Let's make communication accessible to everyone! 🌟
