@@ -1,6 +1,6 @@
 # AI-based Sign Language Recognition System
 
-Welcome to our AI-based Sign Language Recognition System project! We're thrilled to introduce a solution aimed at breaking communication barriers for the deaf and mute community, fostering inclusivity across various domains like education, healthcare, and employment. With approximately 466 million people worldwide facing deafness and muteness challenges, our project leverages the power of Artificial Intelligence to support and empower individuals in need.
+Welcome to our AI-based Sign Language Recognition System project! We're thrilled to introduce a solution aimed at breaking communication barriers for the deaf and mute community, fostering inclusivity across various domains like education, healthcare, and employment. With approximately 466 million people worldwide facing the muteness challenges, our project leverages the power of Artificial Intelligence to support and empower individuals in need.
 
 ## Project Highlights
 
