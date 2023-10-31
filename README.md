@@ -50,4 +50,4 @@ We extend our gratitude to the open-source community and all contributors for th
 
 ---
 
-Thank you for exploring our AI-based Sign Language Recognition System. For a live demonstration. Let's make communication accessible to everyone!
+Thank you for exploring our AI-based Sign Language Recognition System.Let's make communication accessible to everyone!
